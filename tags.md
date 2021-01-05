@@ -1,2 +1,7 @@
-taxonomy: # tag name
-entries_layout: # list (default), grid
+---
+title: Tags
+layout: tags
+permalink: /tags/
+show_excerpts: true
+entries_layout: list
+---
